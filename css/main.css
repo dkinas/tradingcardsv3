@@ -1,0 +1,31 @@
+main {
+  padding-top: 20px;
+  display: block;
+  text-align: left;
+  
+}
+
+header {
+  background-color: #ffcc66;
+  margin-bottom: 40px;
+}
+h1 {
+  line-height: 1;
+  margin-bottom: 0;
+  font-size: 30px;
+}
+
+h2 {
+  line-height: 1;
+  margin-bottom: 0;
+  font-size: 15px;
+
+  }
+  
+  
+
+.card {
+	color: #CCCCCC;
+	padding-right: 1px;
+}
+
